@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HoleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-11-03T11:53:28" hostname="Roberts-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="cannotCreateHoleWithHoleNumberGreaterThanEighteen()" classname="HoleTest" time="0.002"/>
+  <testcase name="cannotCreateHoleWithHoleNumberLessThanOne()" classname="HoleTest" time="0.001"/>
+  <testcase name="canCreateHoleWithAcceptableParAndHoleValue()" classname="HoleTest" time="0.001"/>
+  <testcase name="cannotCreateHoleWithParLessThanThree()" classname="HoleTest" time="0.001"/>
+  <testcase name="cannotCreateHoleWithParGreaterThanFive()" classname="HoleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

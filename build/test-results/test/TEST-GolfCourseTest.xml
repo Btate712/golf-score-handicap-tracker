@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GolfCourseTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-03T11:53:28" hostname="Roberts-MacBook-Pro.local" time="0.047">
+  <properties/>
+  <testcase name="getsNumberOfHolesForCourse()" classname="GolfCourseTest" time="0.024"/>
+  <testcase name="numberOfHolesDoesNotCountNulls()" classname="GolfCourseTest" time="0.001"/>
+  <testcase name="unassignedHoleIsNull()" classname="GolfCourseTest" time="0.0"/>
+  <testcase name="getsParForCourse()" classname="GolfCourseTest" time="0.001"/>
+  <testcase name="cannotAddTeePositionWithoutSpecifyingColor()" classname="GolfCourseTest" time="0.003"/>
+  <testcase name="cannotAddTeePositionWithZeroSlope()" classname="GolfCourseTest" time="0.002"/>
+  <testcase name="cannotAddTeePositionWithZeroRating()" classname="GolfCourseTest" time="0.001"/>
+  <testcase name="cannotAddTeePositionWithEmptyColor()" classname="GolfCourseTest" time="0.001"/>
+  <testcase name="canAddTeePositionWithColorSlopeAndRating()" classname="GolfCourseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
